@@ -18,7 +18,6 @@ if (isset($_POST['valider'])){
 <!doctype html>
 <html lang="en">
 <head>
-
     <meta charset="UTF-8">
     <meta username="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -41,11 +40,8 @@ if (isset($_POST['valider'])){
         ?>
             <h4><?= $content['username']; ?></h4>
             <p><?= $content['content']; ?></p>
-
         <?php
     }
-
-
     ?>
 </section>
 

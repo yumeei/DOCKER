@@ -29,7 +29,6 @@ if (isset($_POST['connexion'])) {
     <meta charset="UTF-8">
     <title>Docker PHP</title>
 </head>
-
 <body>
     <!-- sign up form -->
     <section class="login-form">
